@@ -1,0 +1,40 @@
+{
+  "Fruits": [
+    {
+      "id": 1,
+      "name": "PHP",
+      "checked":"false"
+      
+    },
+    {
+      "id": 2,
+      "name": "Java",
+      "checked":"false"
+      
+    },
+    {
+      "id": 3,
+      "name": "Python",
+      "checked":"false"
+      
+    },
+    {
+      "id": 4,
+      "name": "SQL",
+      "checked":"false"
+      
+    },
+    {
+      "id": 5,
+      "name": "JavaScript",
+      "checked":"false"
+      
+    },
+    {
+      "id": 6,
+      "name": "React",
+      "checked":"false"
+      
+    }
+  ]
+}
